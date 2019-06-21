@@ -10,17 +10,16 @@
 
 [+] Author :-
 
-   Name : Mujeeb
-   Youtube : www.youtube.com/TechnicalMujeeb
-   Github : https://github.com/TechnicalMujeeb/Termux-Lazyscript.git
-   whatsapp : Termux cyber   
+   Name : uchil404
+   Github : https://github.com/uchil404/Termux-Lazyscript.git
+   whatsapp : cie kepo:-p   
 
 [+] Installation :-
   
     apt update && apt upgrade
     apt install git   
     apt install python2
-    git clone https://github.com/TechnicalMujeeb/Termux-Lazyscript.git
+    git clone https://github.com/uchil404/Termux-Lazyscript.git
     cd Termux-Lazyscript
     chmod +x *
     sh setup.sh
