@@ -53,8 +53,8 @@ gem install lolcat
 chmod +x *
 
 cd core
-git clone https://github.com/TechnicalMujeeb/Termux-speak.git
-cd Termux-speak
+git clone https://github.com/uchil404/lazyscript.git
+cd laziscript
 chmod +x *
 cd ..
 cd ..
@@ -63,5 +63,4 @@ echo "$green installation Finished !"
 echo ""
 echo "$yellow Now Run ls.py with python2"
 echo "" 
-echo "$cyan subscribe Technical Mujeeb YT channel for more tools."
-echo "" 
+
